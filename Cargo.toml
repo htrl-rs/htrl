@@ -1,2 +1,7 @@
 [workspace]
-members = []
+resolver = "2"
+members = [
+  "htrl",
+  "htrl_macros",
+  "htrl_tests",
+]
